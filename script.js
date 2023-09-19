@@ -12,7 +12,7 @@ document.getElementById('newTaskInput').addEventListener('keydown', function(e) 
 var todos = JSON.parse(localStorage.getItem('todos')) || {
     today: [],
     week: {
-        monday: [],
+        monday: ,
         tuesday: [],
         wednesday: [],
         thursday: [],
