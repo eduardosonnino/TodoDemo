@@ -128,7 +128,7 @@ function switchList(menuId) {
             }
             break;
         default:
-            break;
+            brea;
     }
 }
 
